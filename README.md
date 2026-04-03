@@ -23,7 +23,7 @@ Página web interativa com animações e foco em experiência visual.
 # Clone o repositório
 git clone https://github.com/kayquemab/Projeto_Socially
 
-# Acesse a pasta
+# Entre na pasta do projeto
 Socially
 
 # Abra o arquivo no navegador
