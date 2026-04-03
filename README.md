@@ -26,7 +26,7 @@ git clone https://github.com/kayquemab/Projeto_Socially
 # Entre na pasta do projeto
 Socially
 
-# Abra o arquivo no navegador
+# Abra o arquivo index.html no navegador
 ```
 
 ---
