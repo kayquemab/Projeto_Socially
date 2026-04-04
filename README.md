@@ -1,43 +1,27 @@
-# 📌 Socially — GreatStack
+# 📌 Socially
 
-Página web interativa com animações e foco em experiência visual.
-
----
+Página web com foco em design moderno e animações em CSS.
 
 ## 🚀 Tecnologias
 
 * HTML5
 * CSS3
 
----
-
 ## ✨ Funcionalidades
 
-* Interface moderna e responsiva
+* Interface responsiva
 * Animações com CSS
----
 
 ## ⚙️ Como executar
 
-```bash
-# Clone o repositório
-git clone https://github.com/kayquemab/Projeto_Socially
-
-# Entre na pasta do projeto
-Socially
-
-# Abra o arquivo index.html no navegador
-```
-
----
+Baixar ou clonar o repositório e abrir o arquivo `index.html` no navegador
 
 ## 📌 Observações
 
-* Projeto feito para estudo e prática
-* Foco em prática de layout e animações
-
----
+* Projeto estático (não requer instalação)
+* Foco em animações e experiência visual
 
 ## 👤 Autor
 
-Criado por **GreatStack** | Desenvolvido por **Kayque Miqueias**
+* Criado por **GreatStack**
+* Desenvolvido por **Kayque Miqueias**
